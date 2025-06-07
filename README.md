@@ -16,7 +16,7 @@ db/             # SQL schema and seed data
 - **requirements.txt** – Python dependencies
 
 ### Frontend
-- **public/** – Static HTML
+- **public/** – Static HTML, including `test.html` which displays a simple page to confirm the setup
 - **src/** – Frontend source code (JavaScript)
 - **package.json** – Frontend dependencies
 
